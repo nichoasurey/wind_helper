@@ -1,0 +1,590 @@
+[
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:56"
+    },
+    "file": {
+      "name": "Compliments.eml",
+      "type": "ASCII text, with very long lines (454), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "cc28fe4291fb4446167fbb0439fd25ec",
+        "sha1": "bf0b59f7d7173bf75d7d9bab606baf87e2b64a79",
+        "sha256": "5b143f0d7dfa137a6db926ab35faabaa24c0af8810a95e921bade7a28aa0ca51"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:52"
+    },
+    "file": {
+      "name": "CS-MS-INV-24-2021-R2 - Miral LLC - Bathymetric Survey - Samaliyah Island - AUH - Jan 31, 2025.pdf",
+      "type": "PDF document, version 1.7, 1 page(s)",
+      "verdict": "No threats detected",
+      "tags": [
+        "generated-doc"
+      ],
+      "hashes": {
+        "md5": "5eb9e8e55fa18dd8d761ce0cdf6a20d1",
+        "sha1": "240edd472618e6198d992f0d690296f6d36ef751",
+        "sha256": "a114cce8c8245e23eceb33c3ed928925e194c6ede75355bb04596773c7aa6dae"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:56"
+    },
+    "file": {
+      "name": "Prácticas de Movilidad Internacional – Estudiante de Ingeniería en alternancia en EUROVIA (Francia).eml",
+      "type": "RFC 822 mail, ASCII text, with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [
+        "attachments",
+        "attc-pdf"
+      ],
+      "hashes": {
+        "md5": "449f5f8ec731bfbbeddfc5162ed73073",
+        "sha1": "0243317f7e08682039a7892a7e23827ca236398b",
+        "sha256": "3cfa280eecd4cc09fda2816364368d4bc51bf2b8f8f6dc8249fddbff8ebb53e4"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:55"
+    },
+    "file": {
+      "name": "63d0e572062c5bfc60fa8496cebe6ca9.exe",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 4 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "netreactor",
+        "smoke",
+        "loader",
+        "smokeloader"
+      ],
+      "hashes": {
+        "md5": "63d0e572062c5bfc60fa8496cebe6ca9",
+        "sha1": "60deb126a96e06c2d8b7d445b966460c0880dc32",
+        "sha256": "373392263824a3e8815e7492cbad14b8f3708fd96b1b311afad72e8393747dd4"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:57"
+    },
+    "file": {
+      "name": "teste.ps1",
+      "type": "ASCII text, with very long lines (545), with no line terminators",
+      "verdict": "Malicious activity",
+      "tags": [
+        "fody"
+      ],
+      "hashes": {
+        "md5": "fa3112a10863e957d0017c9241d94b0c",
+        "sha1": "7629883d47984f302180a5f5a4d137e81abe2153",
+        "sha256": "44e3f122b0bfd7c3c0d183f007b98ad25804d9e26bdab33a1a0a507e0b5263fc"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:57"
+    },
+    "file": {
+      "name": "rfc (2).eml",
+      "type": "RFC 822 mail, ASCII text, with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "02a67efa5ecfc12c61400f8d8d170c39",
+        "sha1": "fd1ff3b708d5cfb8c26a9ba525176f5fb15fb3db",
+        "sha256": "1307f4d7b2f2b8943b09c8c12059b64c7ddf5761191579eff569e5e2e587d2a4"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:57"
+    },
+    "file": {
+      "name": "email (60).eml",
+      "type": "RFC 822 mail, ASCII text, with CRLF line terminators",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "dkim-fail"
+      ],
+      "hashes": {
+        "md5": "911bf42e1c8c1061f67c6e7b4b3e6fdd",
+        "sha1": "93c04e93ddd9edd0e0f9622f60e6676a6e8d3f17",
+        "sha256": "ef4498af6cc339f054cb65539ac274127a6f99156e78603980248b0b0c341623"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:56"
+    },
+    "file": {
+      "name": "Notificacion de Paquete.eml",
+      "type": "RFC 822 mail, ASCII text, with very long lines (402), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [
+        "telegram"
+      ],
+      "hashes": {
+        "md5": "a45adfe2ccb906dc31be1faec06b7be8",
+        "sha1": "1877ed262e2be3a99a471ad8409373fa1a75c8d3",
+        "sha256": "5543d3fd35d522f68042671983c4d9f219d6f078810901f50fea22b512e8f265"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:57"
+    },
+    "file": {
+      "name": "eml (24.8 KB).msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "No threats detected",
+      "tags": [
+        "attachments",
+        "attc-unc"
+      ],
+      "hashes": {
+        "md5": "f6e74498231915104f648cc1c4520ad8",
+        "sha1": "a97253900b2d9fb0a5ac24b6b14fca1443c08acf",
+        "sha256": "ce30534251a4142f021e5d67b3e2a5ba5ade13818357cd293eac179942176629"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:57"
+    },
+    "file": {
+      "name": "Complete with Docusign Nuffield Health Cheltenham 100020974 Consignment Stock Agreement 2025.pdf.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "af793fc7be812ae34a9ddd3f57aed125",
+        "sha1": "871a3c7c806dbf3ade1a6ea7020b8b1f28a1ec33",
+        "sha256": "3bfa07e237dd2d4f6807fe63eefe98d2b85ee1aa46ff9d830130f822ebc4b416"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:56"
+    },
+    "file": {
+      "name": "mta.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "a7064e5a9949b854c9ab495f30383161",
+        "sha1": "2cd53018bae9658facc7fb26897185e9e5e1ab7f",
+        "sha256": "4836dcc60c0b922483aa23cfdb01f8ddc845c760da5939e8f89f74c6353bacf0"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:55"
+    },
+    "file": {
+      "name": "Quarantined Messages (6).zip",
+      "type": "Zip archive data, at least v4.5 to extract, compression method=deflate",
+      "verdict": "No threats detected",
+      "tags": [
+        "attachments",
+        "attc-unc"
+      ],
+      "hashes": {
+        "md5": "c5d2521041fce27886e872374d3b5ce6",
+        "sha1": "139bc00cf93fca35927810132f6f95c3161e8c56",
+        "sha256": "9b5eb200a20b6ad91dcefe8668ce133bf607ec07e2d41edd6864fed92918e4b4"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:56"
+    },
+    "file": {
+      "name": "OneDrive.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections",
+      "verdict": "Malicious activity",
+      "tags": [],
+      "hashes": {
+        "md5": "cf1a1b2a6f227d5b06ab0b3c8b88618b",
+        "sha1": "d307e14b74c0f583291b44823c37d7787e562cec",
+        "sha256": "1fd250a499b2912b1acec31a03caa32f1b328f2861e1383e94f23386f724fb36"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:59"
+    },
+    "file": {
+      "name": "cipher-client-1.0-injector.jar",
+      "type": "Zip archive data, at least v1.0 to extract, compression method=deflate",
+      "verdict": "No threats detected",
+      "tags": [
+        "java"
+      ],
+      "hashes": {
+        "md5": "8f2d1f0cd1117da89ffc814eee267f9e",
+        "sha1": "a80500514be4db5e4090e99a398ba948dd58f6e6",
+        "sha256": "0fa91d3595d5ad63b671ef42318ad7ee598d5b1bd1d5bb9f6e5b792b2c5c3287"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:57"
+    },
+    "file": {
+      "name": "ddd.ps1",
+      "type": "ASCII text, with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "724ce055987b0958ed5f74476b851638",
+        "sha1": "40cabf6f4db285156c6b5b30604cc5a0c6f49490",
+        "sha256": "69550c2b941ba5e1b8916ca79578c123ad27291294f3ff636b3d81e0975883d8"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:58"
+    },
+    "file": {
+      "name": "63d0e572062c5bfc60fa8496cebe6ca9.exe",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 4 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "smoke",
+        "loader",
+        "smokeloader"
+      ],
+      "hashes": {
+        "md5": "63d0e572062c5bfc60fa8496cebe6ca9",
+        "sha1": "60deb126a96e06c2d8b7d445b966460c0880dc32",
+        "sha256": "373392263824a3e8815e7492cbad14b8f3708fd96b1b311afad72e8393747dd4"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:58"
+    },
+    "file": {
+      "name": "RV NO REPLY Notificación Finalización Mantenimiento Cuenta  ELECTRIFICADORA DE SANTANDER SA ESP.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "Suspicious activity",
+      "tags": [],
+      "hashes": {
+        "md5": "dc84b9f42ec16281b2e353696dc28ef0",
+        "sha1": "e4884389328bf3f42d6961a721d5ffbf7b162de7",
+        "sha256": "c82c1e389a28c96c1cfd87f8385f790c45101e0bb0f70bd8a09216e1f4f36785"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:00"
+    },
+    "file": {
+      "name": "new.request.html.html",
+      "type": "HTML document, ASCII text, with very long lines (431), with CRLF line terminators",
+      "verdict": "Malicious activity",
+      "tags": [
+        "phishing"
+      ],
+      "hashes": {
+        "md5": "9422b617ab27f1afb7dc263624259167",
+        "sha1": "5b4a368d1bd97c9328faa5e80744a6b378889146",
+        "sha256": "6e8cb3a4b59d12c0a905f062a608c5caaaf317b44ea1b0721088220edfb2aa2b"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:00"
+    },
+    "file": {
+      "name": "noname (41).eml",
+      "type": "RFC 822 mail, ASCII text, with CRLF line terminators",
+      "verdict": "Malicious activity",
+      "tags": [
+        "amazon-ses",
+        "dkim-fail"
+      ],
+      "hashes": {
+        "md5": "c30e9512beeda357eb964adfbf4db138",
+        "sha1": "a866e37a5d7aba93fbb7dfeb5e69c45a551cf816",
+        "sha256": "aa0fbb5ddf521376356156c19a4d3f9f053e7278e512971aa51c93d8ffaa0686"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:00"
+    },
+    "file": {
+      "name": "5e81983c-37a9-459d-81fd-3c58859905d4",
+      "type": "SMTP mail, ASCII text, with very long lines (531), with CRLF line terminators",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "dkim-fail"
+      ],
+      "hashes": {
+        "md5": "f5450c1c3808a81e84acb72ae1c0761b",
+        "sha1": "f70bf292b213fbf2a5cc0fd23612b430b4e3acb3",
+        "sha256": "134e1569f76adc7d1dd4b4429fae7a27bbb63d1578073658ef9cd68d9b4bdbad"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:00"
+    },
+    "file": {
+      "name": "PLMMDM-1503 TOPGOLF DESCRIPTION UPDATE.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "Malicious activity",
+      "tags": [
+        "spf-fail",
+        "dkim-fail",
+        "amazon-ses"
+      ],
+      "hashes": {
+        "md5": "f18d2275af2100f5c78ccbe65dc1b0e6",
+        "sha1": "af7785973a9ddcf88c64c70cd499b3efaa648de9",
+        "sha256": "6f990c58c616f3369f185cf7c29530b3d707db5663c1a46d72029f32d06596fa"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:00"
+    },
+    "file": {
+      "name": "MDE_File_Sample_4d038fc13242ac69151ad60176bf211529cfcf94.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "c02ee595663eb017406f4201e01f9213",
+        "sha1": "2ffcc7898ce6ce3a55b8efb6b913a6a4b527b2ca",
+        "sha256": "b0ca35971e3a009afa771994350c8ed9a1eb87f0d2dfc005ecffa63c623af1f5"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:01"
+    },
+    "file": {
+      "name": "Ticket#250115-EM0073  Returnlabel.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "qrcode",
+        "spf-fail",
+        "dkim-fail"
+      ],
+      "hashes": {
+        "md5": "c22ffaba69921f7ee19a29f1ff1c14ee",
+        "sha1": "2308cd7b2a200d718425f0208c2f41aff3a30bb9",
+        "sha256": "289b56d7782e2cedc0e5376f67893e0a70668835964974735b6dfb78358e5af2"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:02"
+    },
+    "file": {
+      "name": "OneStart-20250205T103801Z-001.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "8629523e414ad0334d3acecfdc1c34ce",
+        "sha1": "3388d958d316810e43222e805c2ad7fc429617f5",
+        "sha256": "b697763524e05e44dabb8e8a797c42d63510f99acfdf1823e2a5f994c411d0e1"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:01"
+    },
+    "file": {
+      "name": "63d0e572062c5bfc60fa8496cebe6ca9.exe",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 4 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "netreactor",
+        "smoke",
+        "loader",
+        "smokeloader"
+      ],
+      "hashes": {
+        "md5": "63d0e572062c5bfc60fa8496cebe6ca9",
+        "sha1": "60deb126a96e06c2d8b7d445b966460c0880dc32",
+        "sha256": "373392263824a3e8815e7492cbad14b8f3708fd96b1b311afad72e8393747dd4"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:58"
+    },
+    "file": {
+      "name": "SubwaySurfers_com.kiloo.subwaysurf_rd.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "adware",
+        "fody"
+      ],
+      "hashes": {
+        "md5": "35047ddbf0240aa3906d48c5c5acb094",
+        "sha1": "6cffb0d774f9070f040d12e8f524c9af779346d2",
+        "sha256": "7cf20014f66153d797aeca291715c9f552e752714870dd30d61c6146b29c829f"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:03"
+    },
+    "file": {
+      "name": "Sandbox Natalia Bedoya - BKN-0000180389 is confirmed at Topgolf Chigwell!.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "1bba3527291439fcf1bf208f41bdb6ff",
+        "sha1": "2962868e19663c64384d1dcd537b75f9feec797d",
+        "sha256": "83f73161e5a6949c410ec361d4b3366e3df1d3f4a7850e3a538dacc535fa09d5"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:02"
+    },
+    "file": {
+      "name": "noname (41).eml",
+      "type": "RFC 822 mail, ASCII text, with CRLF line terminators",
+      "verdict": "Malicious activity",
+      "tags": [
+        "dkim-fail",
+        "amazon-ses"
+      ],
+      "hashes": {
+        "md5": "c30e9512beeda357eb964adfbf4db138",
+        "sha1": "a866e37a5d7aba93fbb7dfeb5e69c45a551cf816",
+        "sha256": "aa0fbb5ddf521376356156c19a4d3f9f053e7278e512971aa51c93d8ffaa0686"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:03"
+    },
+    "file": {
+      "name": "120baf0de4e7b1ca05d20acf8ed6e2712115ccccb505877846cbbe4bf0435e72.7z",
+      "type": "7-zip archive data, version 0.4",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "d1527870c4038bbd3c8a4a0b83960cc5",
+        "sha1": "a9bbd0263cfdb6c37057a6677782a926f26cbdaf",
+        "sha256": "100eab8ffaa51f76a0a9f65a94c0b8bfd730cbe67940328875ccfec136d067f7"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:05"
+    },
+    "file": {
+      "name": "Your track and trace code.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "6fdfc2bd9c060357e61160bef89922a6",
+        "sha1": "fe220026a7d3d618da28fc351d025f7fe7361c4c",
+        "sha256": "61e1a0658df44673b4663a2dbaf9c8a0dcc983a528193f48dcbd20b11e75d1fc"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 21:01"
+    },
+    "file": {
+      "name": "Tuseday4th FEBReminderL.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "Malicious activity",
+      "tags": [
+        "spf-fail",
+        "phishing",
+        "opendir",
+        "43"
+      ],
+      "hashes": {
+        "md5": "cf234f4d2a18f7f8b7d51eb5a5a98bc0",
+        "sha1": "80b5a7686b6f1bb7624d0d076143fffd10ec349e",
+        "sha256": "af5721b2d6a49e8b01eafc4fa860c31e21d24a0a3ed57f464c56426298b3ef4e"
+      }
+    }
+  }
+]
