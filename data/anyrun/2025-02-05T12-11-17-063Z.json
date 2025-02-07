@@ -1,0 +1,1215 @@
+[
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:01"
+    },
+    "file": {
+      "name": "NF_e.msi",
+      "type": "Composite Document File V2 Document, Little Endian, Os: Windows, Version 10.0, MSI Installer, Code page: 1252, Title: Installation Database, Subject: AteraAgent, Author: Atera networks, Keywords: Installer, Comments: This installer database contains the logic and data required to install AteraAgent., Template: Intel;1033, Revision Number: {721AD955-79FD-4019-BBF5-9DCC4C1175BB}, Create Time/Date: Wed Feb 28 10:52:02 2024, Last Saved Time/Date: Wed Feb 28 10:52:02 2024, Number of Pages: 200, Number of Words: 6, Name of Creating Application: Windows Installer XML Toolset (3.11.2.4516), Security: 2",
+      "verdict": "Malicious activity",
+      "tags": [
+        "generated-doc",
+        "ateraagent",
+        "atera",
+        "tool"
+      ],
+      "hashes": {
+        "md5": "73f95f387f28c4076c731baaf9e0aa2f",
+        "sha1": "7ad11a552545d11065bf318a6d631a1c4c441fd4",
+        "sha256": "60a7462362c166a19f7b21254568c90c3d4ef5d27b624f68254180c0d4e01e3b"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:02"
+    },
+    "file": {
+      "name": "d2ea3112-1641-4574-8d57-4391cbc2d92e",
+      "type": "RFC 822 mail, ASCII text, with very long lines (468), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [
+        "attachments",
+        "attc-pdf"
+      ],
+      "hashes": {
+        "md5": "a37d9e82f68520699e08b3192dbc3c27",
+        "sha1": "70263a8f7344a5b2f58655c30ab20c9e961ff169",
+        "sha256": "ca3b8c81b96093a4bf70381569bb3a67e49e85c173692d881a8bca27acb1d024"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:02"
+    },
+    "file": {
+      "name": "SecuriteInfo.com.Win32.MalwareX-gen.16616.16590",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "fileshare",
+        "smoke",
+        "loader",
+        "smokeloader",
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "ba355806bff2f47d72c0ae2d2a2419c4",
+        "sha1": "cf8343508542d5b93da71fb02465da155f0207d8",
+        "sha256": "702d872bbf70852c64d2ce89cd85b6a06612e2fd860add01f008c462e0a7baaa"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:02"
+    },
+    "file": {
+      "name": "RE  Everything You Need to Know  New Handbook Release.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "Malicious activity",
+      "tags": [
+        "qrcode",
+        "phishing",
+        "phish-url",
+        "pdf-secudoc"
+      ],
+      "hashes": {
+        "md5": "69653afa900548101d79bb706ba01426",
+        "sha1": "ca5235822b0338b6cda848a49617a8b6b5c50912",
+        "sha256": "c6930fff03b655618af69401049ad6419791e0ef71a706b658e2d80c1f653068"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:00"
+    },
+    "file": {
+      "name": "202502050855_2020-211-348-10 SILVA Y SOTO SAS EN LIQUIDACIÓN.zip_jalvaradoc.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "arch-doc"
+      ],
+      "hashes": {
+        "md5": "18b63ad0fd914d22c28d715bd45485b0",
+        "sha1": "6670f9b0fb4bf96424e4f9c89c57c6974a62810e",
+        "sha256": "07e8f0d9aa6378c0aed8c2ad8544c2cd51eee6f16e58c20b87f94a097abe2562"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:04"
+    },
+    "file": {
+      "name": "[Spring'25] ZC Consulting Pitch Deck.pptx.pdf",
+      "type": "PDF document, version 1.4, 21 page(s)",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "1d73fabf763631d1010e9d8f8066aa84",
+        "sha1": "321faeea988b93af5dd1dff5f33d276cf1efc7e6",
+        "sha256": "46af669cb068e7610488fba3f300c96d15e269b4a87a3a5ead869f7ecd0afc8c"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:06"
+    },
+    "file": {
+      "name": "wsappv.exe",
+      "type": "PE32+ executable (GUI) x86-64, for MS Windows, 7 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "miner"
+      ],
+      "hashes": {
+        "md5": "3287391002202d59134c9ba76aa82c3c",
+        "sha1": "b23f2bbb208996012abe7b7837651382127ab5c6",
+        "sha256": "f41702e67b456fcfc70d6370548b6c579d81091e6e761ff0aae58f3c860b303a"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:07"
+    },
+    "file": {
+      "name": "Screenshot 2025-02-05 170657.jpg",
+      "type": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 194x177, components 3",
+      "verdict": "Malicious activity",
+      "tags": [
+        "qrcode",
+        "phishing",
+        "phish-url",
+        "possible-phishing"
+      ],
+      "hashes": {
+        "md5": "8e5e3a5750f2b0fd4fc78f00105de88e",
+        "sha1": "02d0a051e8e73167dc4979682b320b96a28c0294",
+        "sha256": "b96a6b6a0b2f9b957cf3d48dec8f0dfc74c7caa149c6e1b0ee6b2357cb570d95"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:06"
+    },
+    "file": {
+      "name": "f8dcfc27-7932-427e-b2ff-62e9e65cb138",
+      "type": "RFC 822 mail, Unicode text, UTF-8 text, with very long lines (2379), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "4a8caa7606a36b48a3b78eb292e206cd",
+        "sha1": "d4533ad935c0726ae7d3daffdb809182db48cc43",
+        "sha256": "7160d9dca2122bab0991a83b4f95db420c06065f7086b67fcb2a9313d7e5e131"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:08"
+    },
+    "file": {
+      "name": "P.O#850850039",
+      "type": "HTML document, ASCII text, with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "09a4c3e831dfdcc5bc20c30de9007ad8",
+        "sha1": "bc47756d08cab351b86abeff26550293218cb5ad",
+        "sha256": "6cde8c4a9c1cf2e67615c34e6996f380282e0896a2eb65428909371f29924302"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:07"
+    },
+    "file": {
+      "name": "3cfefa5ab21f059f3cf1e6cabae40b5b.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "xor-url",
+        "generic",
+        "guloader"
+      ],
+      "hashes": {
+        "md5": "3cfefa5ab21f059f3cf1e6cabae40b5b",
+        "sha1": "56059174c854573d5b0b1064a5beacfeb5e50a97",
+        "sha256": "68a822e1482782e0d05a81d0b3c1c5ad76cdf7302a056d92b8531692d7420c18"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:09"
+    },
+    "file": {
+      "name": "Screenshot 2025-02-05 170657.jpg",
+      "type": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 194x177, components 3",
+      "verdict": "Malicious activity",
+      "tags": [
+        "qrcode",
+        "phishing",
+        "phish-url",
+        "possible-phishing"
+      ],
+      "hashes": {
+        "md5": "8e5e3a5750f2b0fd4fc78f00105de88e",
+        "sha1": "02d0a051e8e73167dc4979682b320b96a28c0294",
+        "sha256": "b96a6b6a0b2f9b957cf3d48dec8f0dfc74c7caa149c6e1b0ee6b2357cb570d95"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:08"
+    },
+    "file": {
+      "name": "P.O#850850039",
+      "type": "HTML document, ASCII text, with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "09a4c3e831dfdcc5bc20c30de9007ad8",
+        "sha1": "bc47756d08cab351b86abeff26550293218cb5ad",
+        "sha256": "6cde8c4a9c1cf2e67615c34e6996f380282e0896a2eb65428909371f29924302"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:07"
+    },
+    "file": {
+      "name": "3cfefa5ab21f059f3cf1e6cabae40b5b.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "xor-url",
+        "generic",
+        "guloader"
+      ],
+      "hashes": {
+        "md5": "3cfefa5ab21f059f3cf1e6cabae40b5b",
+        "sha1": "56059174c854573d5b0b1064a5beacfeb5e50a97",
+        "sha256": "68a822e1482782e0d05a81d0b3c1c5ad76cdf7302a056d92b8531692d7420c18"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:07"
+    },
+    "file": {
+      "name": "Screenshot 2025-02-05 170657.jpg",
+      "type": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 194x177, components 3",
+      "verdict": "Malicious activity",
+      "tags": [
+        "qrcode",
+        "phishing",
+        "phish-url",
+        "possible-phishing"
+      ],
+      "hashes": {
+        "md5": "8e5e3a5750f2b0fd4fc78f00105de88e",
+        "sha1": "02d0a051e8e73167dc4979682b320b96a28c0294",
+        "sha256": "b96a6b6a0b2f9b957cf3d48dec8f0dfc74c7caa149c6e1b0ee6b2357cb570d95"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:06"
+    },
+    "file": {
+      "name": "wsappv.exe",
+      "type": "PE32+ executable (GUI) x86-64, for MS Windows, 7 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "miner"
+      ],
+      "hashes": {
+        "md5": "3287391002202d59134c9ba76aa82c3c",
+        "sha1": "b23f2bbb208996012abe7b7837651382127ab5c6",
+        "sha256": "f41702e67b456fcfc70d6370548b6c579d81091e6e761ff0aae58f3c860b303a"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:06"
+    },
+    "file": {
+      "name": "f8dcfc27-7932-427e-b2ff-62e9e65cb138",
+      "type": "RFC 822 mail, Unicode text, UTF-8 text, with very long lines (2379), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "4a8caa7606a36b48a3b78eb292e206cd",
+        "sha1": "d4533ad935c0726ae7d3daffdb809182db48cc43",
+        "sha256": "7160d9dca2122bab0991a83b4f95db420c06065f7086b67fcb2a9313d7e5e131"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:04"
+    },
+    "file": {
+      "name": "[Spring'25] ZC Consulting Pitch Deck.pptx.pdf",
+      "type": "PDF document, version 1.4, 21 page(s)",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "1d73fabf763631d1010e9d8f8066aa84",
+        "sha1": "321faeea988b93af5dd1dff5f33d276cf1efc7e6",
+        "sha256": "46af669cb068e7610488fba3f300c96d15e269b4a87a3a5ead869f7ecd0afc8c"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:02"
+    },
+    "file": {
+      "name": "d2ea3112-1641-4574-8d57-4391cbc2d92e",
+      "type": "RFC 822 mail, ASCII text, with very long lines (468), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [
+        "attachments",
+        "attc-pdf"
+      ],
+      "hashes": {
+        "md5": "a37d9e82f68520699e08b3192dbc3c27",
+        "sha1": "70263a8f7344a5b2f58655c30ab20c9e961ff169",
+        "sha256": "ca3b8c81b96093a4bf70381569bb3a67e49e85c173692d881a8bca27acb1d024"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:02"
+    },
+    "file": {
+      "name": "SecuriteInfo.com.Win32.MalwareX-gen.16616.16590",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "fileshare",
+        "smoke",
+        "loader",
+        "smokeloader",
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "ba355806bff2f47d72c0ae2d2a2419c4",
+        "sha1": "cf8343508542d5b93da71fb02465da155f0207d8",
+        "sha256": "702d872bbf70852c64d2ce89cd85b6a06612e2fd860add01f008c462e0a7baaa"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:02"
+    },
+    "file": {
+      "name": "RE  Everything You Need to Know  New Handbook Release.msg",
+      "type": "CDFV2 Microsoft Outlook Message",
+      "verdict": "Malicious activity",
+      "tags": [
+        "qrcode",
+        "phishing",
+        "phish-url",
+        "pdf-secudoc"
+      ],
+      "hashes": {
+        "md5": "69653afa900548101d79bb706ba01426",
+        "sha1": "ca5235822b0338b6cda848a49617a8b6b5c50912",
+        "sha256": "c6930fff03b655618af69401049ad6419791e0ef71a706b658e2d80c1f653068"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:02"
+    },
+    "file": {
+      "name": "AWS Cloud Practitioner - Practice Questions.docx",
+      "type": "Microsoft Word 2007+",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "46c769dc02ff639d7c96782faf408a51",
+        "sha1": "f54f0b7ceca20101e6c0066af974f6b9dd6dd171",
+        "sha256": "c408b25150fc4cb5f740d4a545827322ea6a96377dcd5995008a9300fa6c4a02"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:01"
+    },
+    "file": {
+      "name": "NF_e.msi",
+      "type": "Composite Document File V2 Document, Little Endian, Os: Windows, Version 10.0, MSI Installer, Code page: 1252, Title: Installation Database, Subject: AteraAgent, Author: Atera networks, Keywords: Installer, Comments: This installer database contains the logic and data required to install AteraAgent., Template: Intel;1033, Revision Number: {721AD955-79FD-4019-BBF5-9DCC4C1175BB}, Create Time/Date: Wed Feb 28 10:52:02 2024, Last Saved Time/Date: Wed Feb 28 10:52:02 2024, Number of Pages: 200, Number of Words: 6, Name of Creating Application: Windows Installer XML Toolset (3.11.2.4516), Security: 2",
+      "verdict": "Malicious activity",
+      "tags": [
+        "generated-doc",
+        "ateraagent",
+        "atera",
+        "tool"
+      ],
+      "hashes": {
+        "md5": "73f95f387f28c4076c731baaf9e0aa2f",
+        "sha1": "7ad11a552545d11065bf318a6d631a1c4c441fd4",
+        "sha256": "60a7462362c166a19f7b21254568c90c3d4ef5d27b624f68254180c0d4e01e3b"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:01"
+    },
+    "file": {
+      "name": "main.exe",
+      "type": "PE32+ executable (GUI) x86-64, for MS Windows, 7 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "github",
+        "discord",
+        "evasion",
+        "python",
+        "stealer",
+        "pyinstaller",
+        "ims-api",
+        "generic",
+        "discordgrabber"
+      ],
+      "hashes": {
+        "md5": "cde06dc2b4aa134ef1898619aef98d50",
+        "sha1": "fdb2144846f4d9cf99bf3ef661405ebc3c6e40dd",
+        "sha256": "97133051a92fb6913f858b4efd27b7727e6a1c2934972262cbf119b2df46dabb"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:00"
+    },
+    "file": {
+      "name": "202502050855_2020-211-348-10 SILVA Y SOTO SAS EN LIQUIDACIÓN.zip_jalvaradoc.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "arch-doc"
+      ],
+      "hashes": {
+        "md5": "18b63ad0fd914d22c28d715bd45485b0",
+        "sha1": "6670f9b0fb4bf96424e4f9c89c57c6974a62810e",
+        "sha256": "07e8f0d9aa6378c0aed8c2ad8544c2cd51eee6f16e58c20b87f94a097abe2562"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:00"
+    },
+    "file": {
+      "name": "c1430157-19c4-4bac-8207-1cc2beb2dc4d",
+      "type": "RFC 822 mail, Unicode text, UTF-8 text, with very long lines (548), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "d020344c311078408847355923b2dca8",
+        "sha1": "99410c76e60e1b157f407132bd3285cf21ec848a",
+        "sha256": "d880c700fccef208613dfc45921a6da61ae5f1a51872ce648026ded46fb9ea76"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:00"
+    },
+    "file": {
+      "name": "SkyWyder.rar",
+      "type": "RAR archive data, v5",
+      "verdict": "Malicious activity",
+      "tags": [
+        "arch-exec"
+      ],
+      "hashes": {
+        "md5": "e14844b00d879a59e4d5e1d40c425cab",
+        "sha1": "1488827b9440ab78ffc597df4d8c6e2e7cc5f73c",
+        "sha256": "226261e61c5c5837a969e1eea1d327458d7984f4bd3416561802c8721cf6ffdb"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 20:00"
+    },
+    "file": {
+      "name": "InstallDriver.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 4 sections",
+      "verdict": "Malicious activity",
+      "tags": [],
+      "hashes": {
+        "md5": "e5286bbff237b2072099cc2964026040",
+        "sha1": "4550551ab80d0fe90feafedd6dabc6f1533be501",
+        "sha256": "2e6b2f1986d77e89e8047f250cc6e1c769bd1616d02306445a32c5a0e162678a"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:59"
+    },
+    "file": {
+      "name": "93270172659e664b847bcdd4ce2f5825.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 9 sections",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "93270172659e664b847bcdd4ce2f5825",
+        "sha1": "ab82272189f68170e09722a166e5038672852b39",
+        "sha256": "7ae11a8c631e023fe46c55f05556a6dbdcb1aaa0a3139b77ad8db2aa457ec7d7"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:59"
+    },
+    "file": {
+      "name": "3a517d8519596bf3601ee45f45a302c5.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 8 sections",
+      "verdict": "No threats detected",
+      "tags": [
+        "delphi"
+      ],
+      "hashes": {
+        "md5": "3a517d8519596bf3601ee45f45a302c5",
+        "sha1": "34a3d20790f9c8ed01562bf61a93ce609536c8bd",
+        "sha256": "6fda14e21e41d0f3af2c4219a056fd7f7ecd948a690e3751c4cc4421e3afa6bf"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:59"
+    },
+    "file": {
+      "name": "XClient.exe.zip",
+      "type": "Zip archive data, at least v5.1 to extract, compression method=AES Encrypted",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "bbdb12036bc9a8c773f27ba6cb9184dc",
+        "sha1": "2337e335cb274ab100feaed79bd3d9cc8d55ad9b",
+        "sha256": "cf3133e76dd3e5958a6f7e7ca36086b7e1d8f8a1a328c48720dd847eb740923e"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:58"
+    },
+    "file": {
+      "name": "d1a5de70-3d56-4881-985b-67cadf177528",
+      "type": "RFC 822 mail, Unicode text, UTF-8 text, with very long lines (454), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "5023c716f3d36a298e3335becdc4463b",
+        "sha1": "90101ae50a621a0656ee7132ea63f7b35e62d6b6",
+        "sha256": "939d62198895808aa4397890d2d414fbce84b0f809d6809ca5b98447a63922f5"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:57"
+    },
+    "file": {
+      "name": "mail (18).eml",
+      "type": "RFC 822 mail, ASCII text, with very long lines (330), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "1faa51eb29326608a2afbceefe45b060",
+        "sha1": "2a9c150bf4035099654ad6c7193536bd8d4583e0",
+        "sha256": "b2b070550d52ae8bdaa2e32dd77ee01bf611208df7e058c963034f0b3b31e599"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:57"
+    },
+    "file": {
+      "name": "202502050855_2020-211-348-10 SILVA Y SOTO SAS EN LIQUIDACIÓN.zip_jalvaradoc.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "arch-doc"
+      ],
+      "hashes": {
+        "md5": "18b63ad0fd914d22c28d715bd45485b0",
+        "sha1": "6670f9b0fb4bf96424e4f9c89c57c6974a62810e",
+        "sha256": "07e8f0d9aa6378c0aed8c2ad8544c2cd51eee6f16e58c20b87f94a097abe2562"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:56"
+    },
+    "file": {
+      "name": "New Order_pdf_0016534325.txz",
+      "type": "RAR archive data, v5",
+      "verdict": "Malicious activity",
+      "tags": [
+        "arch-exec",
+        "evasion",
+        "snake",
+        "keylogger",
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "7e4c9587fcd16f21892e9414a88d752a",
+        "sha1": "c8328effbf06bb6277cc728781921bb35930daf0",
+        "sha256": "b6a5ea0d3e52c73c251ffe2da4955816885c20c3ad67d3f243544fd7b9b7e55d"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:56"
+    },
+    "file": {
+      "name": "SecuriteInfo.com.Win32.MalwareX-gen.16616.16590",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "fileshare",
+        "loader",
+        "smokeloader",
+        "smoke",
+        "stealer",
+        "netreactor"
+      ],
+      "hashes": {
+        "md5": "ba355806bff2f47d72c0ae2d2a2419c4",
+        "sha1": "cf8343508542d5b93da71fb02465da155f0207d8",
+        "sha256": "702d872bbf70852c64d2ce89cd85b6a06612e2fd860add01f008c462e0a7baaa"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:56"
+    },
+    "file": {
+      "name": "ksdeui.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "6f90e0cc00fa70585f5c5f85b13c128a",
+        "sha1": "56a323269bd19ce19e472c661ea1a350a7477ebb",
+        "sha256": "53445a7ba7b276d505b32514e6a634ef6ebcba24b5429427783c6efaa9703bec"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:55"
+    },
+    "file": {
+      "name": "gpupdate.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 9 sections",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "delphi"
+      ],
+      "hashes": {
+        "md5": "a34402657f03774eaca332adbd5993ab",
+        "sha1": "0a1cedea37f084e699dc54d2bafc66bcd0a97f82",
+        "sha256": "8fd8060f6b23e0ebe14c566145abd1c75daa4cb9669f71dbaaf9569e8d3411e8"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:55"
+    },
+    "file": {
+      "name": "c1a803ed22d5f209d469273c86bfeb635c21e1e463419071d7da401003995107.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 5 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "agenttesla",
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "6fafa741cf788650bc17d952cb3db5c8",
+        "sha1": "9fc2c2723d641b5197953d05b0b2d14970834a0b",
+        "sha256": "c1a803ed22d5f209d469273c86bfeb635c21e1e463419071d7da401003995107"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:55"
+    },
+    "file": {
+      "name": "e7dac1fb-9f9e-4d8b-a25d-1c20b62a06cc",
+      "type": "RFC 822 mail, Unicode text, UTF-8 text, with very long lines (824), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "83795613fa2cef6361b26fede7dd4a4c",
+        "sha1": "7467064dfb07081237256bab7f281bd176189007",
+        "sha256": "1c69874cd43d916fea5820abb1d534a8c932eafcc2fae5b3349bc0b21c90d1e7"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:54"
+    },
+    "file": {
+      "name": "SecuriteInfo.com.Win32.MalwareX-gen.16616.16590",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "fileshare",
+        "purecrypter",
+        "netreactor",
+        "smoke",
+        "loader",
+        "smokeloader",
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "ba355806bff2f47d72c0ae2d2a2419c4",
+        "sha1": "cf8343508542d5b93da71fb02465da155f0207d8",
+        "sha256": "702d872bbf70852c64d2ce89cd85b6a06612e2fd860add01f008c462e0a7baaa"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:54"
+    },
+    "file": {
+      "name": "New Order_pdf_006534325.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, Nullsoft Installer self-extracting archive, 5 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "evasion",
+        "snake",
+        "keylogger",
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "502a5d91b19d266d46f6bf270a3ce0c8",
+        "sha1": "1af86349a3c21d061baaf83bc5c7574ca85330af",
+        "sha256": "7f2ad4dae501f03a420ec1971af3a5ebe539d7c3430dd632bb4dfa614aa82207"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:53"
+    },
+    "file": {
+      "name": "ghostly.exe",
+      "type": "PE32+ executable (GUI) x86-64, for MS Windows, 6 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "evasion",
+        "blankgrabber",
+        "python",
+        "screenshot",
+        "stealer",
+        "discord",
+        "pyinstaller",
+        "discordgrabber",
+        "generic",
+        "growtopia",
+        "susp-powershell",
+        "ims-api"
+      ],
+      "hashes": {
+        "md5": "8ed3e8c28aaf28ac88d0e368b2152428",
+        "sha1": "cb9efc8f93d25a90b6c11547a75a652ba2334764",
+        "sha256": "24179eef7d437c115c454bfe9a178450e44fa1195ffe5e00fba43a3275a394f8"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:52"
+    },
+    "file": {
+      "name": "DownloadedMessage.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "e4eb5380ff7a9f2b69685bb161f75ad6",
+        "sha1": "3f29d49f0decee31ef444f9674b571f435259e32",
+        "sha256": "ee1316fcd28711b91416a26fe7be8f28a01cf0262777acc488aaa8d20ba1b30c"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:51"
+    },
+    "file": {
+      "name": "449f1e9c8447265317157ad0437ee648-sample.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "Suspicious activity",
+      "tags": [
+        "arch-scr"
+      ],
+      "hashes": {
+        "md5": "9da7c21cefd2febe72fb744a0191384a",
+        "sha1": "d703727088d3fbe3000740015800446d4026743b",
+        "sha256": "65e6b16503a9f261f8e286b057a097eda0bdcb71ae84467ab50f1eb08ddd57d0"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:51"
+    },
+    "file": {
+      "name": "Orden de compra.xla",
+      "type": "Composite Document File V2 Document, Little Endian, Os: Windows, Version 6.2, Code page: 1252, Name of Creating Application: Microsoft Excel, Create Time/Date: Sat Sep 16 00:00:00 2006, Last Saved Time/Date: Tue Feb  4 11:06:44 2025, Security: 1",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "fffa3c88bdb9f50095adaacad4c97adb",
+        "sha1": "cd441e1cfec6345f5e9939b598b8432e7c15c17e",
+        "sha256": "20960d5327f45bdcd54e300dd76e530f577df540a1f5f11360cc71e9e6b465d0"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:51"
+    },
+    "file": {
+      "name": "install.exe",
+      "type": "PE32 executable (GUI) Intel 80386, for MS Windows, 6 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "rhadamanthys",
+        "stealer"
+      ],
+      "hashes": {
+        "md5": "e1d10be0d41ba9e8dbad2a53876b3a00",
+        "sha1": "e7a2d4f602bfd178eb4ec6ac9bd406cb5eae50ed",
+        "sha256": "5bc044ef951c5095e4b7c094df6e54b19dfaafcd148583bb694625b7a0900f1c"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:50"
+    },
+    "file": {
+      "name": "HashPredi.zip",
+      "type": "Zip archive data, at least v1.0 to extract, compression method=store",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "39ec948b42cbe39bb3d5b038f7a09732",
+        "sha1": "5ad8f64383f41af29eda1595422cb3d44e8c53e3",
+        "sha256": "d3813b1b113e664e0ff3fafed5ad68ad3f6315eec60ee094d3aebe4b2e42eb45"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:50"
+    },
+    "file": {
+      "name": "IMG-20250123-WA0000(1).PDF.pdf",
+      "type": "PDF document, version 1.4, 1 page(s) (zip deflate encoded)",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "75f6a65ad6c75ff91715585c9d5cd66a",
+        "sha1": "d2b65a15ec06fe2c2f7e26522893da6cfe80b73e",
+        "sha256": "69e1efae4a7a65232d5df94a68e753731a30f16d73fbdcdeadce856b13a37f06"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:50"
+    },
+    "file": {
+      "name": "DefCon.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "Malicious activity",
+      "tags": [
+        "ransomware",
+        "medusa",
+        "arch-exec",
+        "arch-html"
+      ],
+      "hashes": {
+        "md5": "c880554dc7cfe168bf8d7236fae7a42d",
+        "sha1": "ec5eb5ee34b634a135fed5599f53a8669d1299dc",
+        "sha256": "bc15bed6fd843eec37af935f7057c6275d6198cbe9074c5058326e4f98d434bb"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:50"
+    },
+    "file": {
+      "name": "ba312ad9-1e8b-48d2-bd79-56f967cbdcac",
+      "type": "RFC 822 mail, Unicode text, UTF-8 text, with very long lines (548), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [
+        "attachments",
+        "attc-pdf"
+      ],
+      "hashes": {
+        "md5": "917f885604ba8c9e05aaeda6b1cf9074",
+        "sha1": "ab29a02206bd5d4357557c92f5f145ca27c091d3",
+        "sha256": "f85d52ba3e19cdf2f2b053c4b2f69fcc25f86c983ad38f0c0acf96e9c69b736e"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:50"
+    },
+    "file": {
+      "name": "Compliments.eml",
+      "type": "ASCII text, with very long lines (454), with CRLF line terminators",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "cc28fe4291fb4446167fbb0439fd25ec",
+        "sha1": "bf0b59f7d7173bf75d7d9bab606baf87e2b64a79",
+        "sha256": "5b143f0d7dfa137a6db926ab35faabaa24c0af8810a95e921bade7a28aa0ca51"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:50"
+    },
+    "file": {
+      "name": "infectie (1).7z",
+      "type": "7-zip archive data, version 0.4",
+      "verdict": "No threats detected",
+      "tags": [
+        "attachments",
+        "attc-unc"
+      ],
+      "hashes": {
+        "md5": "0cdc2ca016bc4164972da0fd7d9a63ac",
+        "sha1": "0b9217eb6fc540533c78bd156e8520d3f22055c5",
+        "sha256": "a75148f8884a43db60fd2c90cf0756ee346835a6e9eb8defa8cec7ac075b9ac0"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:49"
+    },
+    "file": {
+      "name": "file.lnk",
+      "type": "MS Windows shortcut, Has Description string, Has command line arguments, Icon number=0, Unicoded, HasEnvironment, PreferEnvironmentPath, length=0, window=showminnoactive",
+      "verdict": "Malicious activity",
+      "tags": [
+        "susp-powershell"
+      ],
+      "hashes": {
+        "md5": "869024b7644d9fb337a81f478a9fb9f2",
+        "sha1": "4e1de3201512c857dfa198c91a9a545ecaaf2a0e",
+        "sha256": "21cefe1d3fe0c69c32bebafca15d1ad3b17fae37b11e6b6effe155327387a752"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:49"
+    },
+    "file": {
+      "name": "SecuriteInfo.com.Win32.MalwareX-gen.16616.16590",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "fileshare",
+        "loader",
+        "smokeloader",
+        "smoke",
+        "stealer",
+        "netreactor"
+      ],
+      "hashes": {
+        "md5": "ba355806bff2f47d72c0ae2d2a2419c4",
+        "sha1": "cf8343508542d5b93da71fb02465da155f0207d8",
+        "sha256": "702d872bbf70852c64d2ce89cd85b6a06612e2fd860add01f008c462e0a7baaa"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 7 Professional 32 bit",
+      "time": "05 February 2025, 19:49"
+    },
+    "file": {
+      "name": "Video.mov",
+      "type": "ISO Media, Apple QuickTime movie, Apple QuickTime (.MOV/QT)",
+      "verdict": "No threats detected",
+      "tags": [
+        "lua"
+      ],
+      "hashes": {
+        "md5": "bd5c62397d7d4784e851fbe7c4155333",
+        "sha1": "04c3f1e4c194d2da829668e8cf2d5a625be58e1b",
+        "sha256": "c2e7a5e69073888b256fef2fb4229b413df686f1f3ae761b0c22278550deca51"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:48"
+    },
+    "file": {
+      "name": "medcongress_mediaplan_2025_DE.pdf",
+      "type": "PDF document, version 1.6 (zip deflate encoded)",
+      "verdict": "No threats detected",
+      "tags": [],
+      "hashes": {
+        "md5": "1149cf1cf0f0f9dbaed08ed94072500c",
+        "sha1": "468519ec7d2541b732a56cf246fcc7b682722122",
+        "sha256": "2356e894937847499644934ff7b32d0668953423ab4d8602627914aa46c0cffb"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:48"
+    },
+    "file": {
+      "name": "XClient.exe",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections",
+      "verdict": "Malicious activity",
+      "tags": [
+        "evasion",
+        "xworm",
+        "remote",
+        "fody"
+      ],
+      "hashes": {
+        "md5": "e5db1562e7a6f7990bc109fd1e239ccd",
+        "sha1": "d669e6db9e18b60e614b04d6ba2784e3ba30098a",
+        "sha256": "0124bb7e68816e4655cae8a1c25bee4d0f2c2aa2ebfcbe361803e170ff241839"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:47"
+    },
+    "file": {
+      "name": "DefCon.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "Malicious activity",
+      "tags": [
+        "ransomware",
+        "medusa",
+        "arch-exec",
+        "arch-html",
+        "evasion"
+      ],
+      "hashes": {
+        "md5": "c880554dc7cfe168bf8d7236fae7a42d",
+        "sha1": "ec5eb5ee34b634a135fed5599f53a8669d1299dc",
+        "sha256": "bc15bed6fd843eec37af935f7057c6275d6198cbe9074c5058326e4f98d434bb"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:47"
+    },
+    "file": {
+      "name": "Software.zip",
+      "type": "Zip archive data, at least v2.0 to extract, compression method=deflate",
+      "verdict": "Malicious activity",
+      "tags": [
+        "arch-exec",
+        "arch-doc",
+        "evasion",
+        "lua",
+        "smartloader",
+        "loader"
+      ],
+      "hashes": {
+        "md5": "e8cbf699f983057f350064d4477dddfe",
+        "sha1": "9953b71fe900614844737a8dba726d2c0dc7ca51",
+        "sha256": "d8a4037f083b9d9cd7296898b66df51b663a5ef3b4da8c6759ae792e27487249"
+      }
+    }
+  },
+  {
+    "os": {
+      "name": "Windows 10 Professional 64 bit",
+      "time": "05 February 2025, 19:46"
+    },
+    "file": {
+      "name": "SecuriteInfo.com.Win32.MalwareX-gen.16616.16590",
+      "type": "PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows, 3 sections",
+      "verdict": "No threats detected",
+      "tags": [
+        "fileshare"
+      ],
+      "hashes": {
+        "md5": "ba355806bff2f47d72c0ae2d2a2419c4",
+        "sha1": "cf8343508542d5b93da71fb02465da155f0207d8",
+        "sha256": "702d872bbf70852c64d2ce89cd85b6a06612e2fd860add01f008c462e0a7baaa"
+      }
+    }
+  }
+]
